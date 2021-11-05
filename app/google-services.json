@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231679747080",
+    "project_id": "week10-ramchat-sk-168d0",
+    "storage_bucket": "week10-ramchat-sk-168d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231679747080:android:9783f3a091d0cb7fdf1dbd",
+        "android_client_info": {
+          "package_name": "com.alrajab.week10_ramchat_sk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231679747080-7mp56do1s1egm5tnlpevonjcjg2mhlml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKCmSji_YJpdpXF4vuGUlK4mjoFoNH44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231679747080-7mp56do1s1egm5tnlpevonjcjg2mhlml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
